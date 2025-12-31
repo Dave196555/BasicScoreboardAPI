@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPI", "SimpleAPI\SimpleAPI.csproj", "{E9FA407D-5E5C-43D5-92F6-47AD5DF7CF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FA407D-5E5C-43D5-92F6-47AD5DF7CF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FA407D-5E5C-43D5-92F6-47AD5DF7CF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FA407D-5E5C-43D5-92F6-47AD5DF7CF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FA407D-5E5C-43D5-92F6-47AD5DF7CF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
